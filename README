@@ -1,0 +1,7 @@
+This is a private copy branch of portmidi (from r149) to build shared
+libraries on Linux and friends.
+
+It is hosted at http://github.com/atsushieno/portmidi-sharedlib/
+
+Atsushi Eno
+
