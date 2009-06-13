@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.63])
-AC_INIT([portmidi], [0.829], [atsushi@ximian.com])
+AC_INIT([portmidi], [0.829s], [atsushi@ximian.com])
 AC_CONFIG_SRCDIR([pm_linux/pmlinux.c])
 AC_CONFIG_HEADERS([config.h])
 
